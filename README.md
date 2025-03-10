@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am exploring coding and practicing with different projects. Please let me know if there are any ways I can improve or resources that may be beneficial for learning!
 <!--
 **FlyingMonkyMan/FlyingMonkyMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
